@@ -1,0 +1,29 @@
+form {
+	margin-right: auto;
+	margin-left: auto;
+	background-color: #fff;
+}
+
+label {
+	padding-bottom: 15px;
+	display: block;
+	font-weight: bold;
+}
+
+input, textarea, select {
+	display: block;
+	margin-bottom: 15px;
+	border-radius: 3px;
+}
+textarea {
+	resize: none;
+	height: 50px !important;
+}
+.form-group {
+	padding: 0;
+	border: 0;
+}
+.form-select, .form-input, .form-textarea {
+	width: 175px;
+	height: 30px;
+}

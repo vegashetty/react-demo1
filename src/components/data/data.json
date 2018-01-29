@@ -1,0 +1,63 @@
+
+{
+  "prodType": [
+	  {
+		"name": "",
+		"value": "0"
+	  },
+	  {
+		"name": "Fund Wrap",
+		"value": "1"
+	  },
+	  {
+		"name": "TAP",
+		"value": "2"
+	  },
+	  {
+		"name": "SMA",
+		"value": "3"
+	  },
+	  {
+		"name": "UMA",
+		"value": "4"
+	  },
+	  {
+		"name": "Security",
+		"value": "5"
+	  },
+	  {
+		"name": "Blended TAP",
+		"value": "6"
+	  }
+	],
+	"invObjective": [
+	  {
+		"name": "",
+		"value": "0"
+	  },
+	  {
+		"name": "Inv Obj 1",
+		"value": "1"
+	  },
+	  {
+		"name": "Inv Obj 2",
+		"value": "2"
+	  },
+	  {
+		"name": "Inv Obj 3",
+		"value": "3"
+	  },
+	  {
+		"name": "Inv Obj 4",
+		"value": "4"
+	  },
+	  {
+		"name": "Inv Obj 5",
+		"value": "5"
+	  },
+	  {
+		"name": "Inv Obj 6",
+		"value": "6"
+	  }
+	]
+  }

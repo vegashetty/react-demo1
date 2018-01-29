@@ -1,0 +1,56 @@
+.mainProductDialog {
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background-color: rgba(0, 0, 0, 0.3);
+	display: flex;
+	align-items: center;
+}
+
+.dialogContainer {
+	width: 700px;
+	height: 500px;
+	margin: auto;
+	border-radius: 15px;
+	background: white;
+}
+
+.dialogHeader {
+	display: flex;
+	background-color: #6188c6;
+	align-items: center;
+	color: white;
+	font-weight: bold;
+	padding: 20px 30px 10px 30px;
+	border-radius: 15px 15px 0px 0px;
+}
+
+.productDialogCloseBtn {
+	margin-left: auto;
+	cursor: pointer;
+	font-size: 2rem;
+}
+
+.dialogContent {
+	padding: 20px 50px;
+	height: 350px;
+}
+
+.dialogButtons {
+	display: inline-block;
+	padding-left: 450px;
+}
+
+.dialogButtons > div {
+	padding: 10px 30px;
+	border-radius: 15px;
+	display: inline-block;
+	cursor: pointer;
+	border: solid 1px #eee;
+}
+
+.dialogCancelBtn {
+	margin-left: 20px;
+}
